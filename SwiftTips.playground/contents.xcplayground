@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='willSet didSet'/>
+        <page name='Swift基础变量'/>
+        <page name='Map'/>
+        <page name='闭包循环强引用'/>
+        <page name='异常处理'/>
+        <page name='协议'/>
+        <page name='访问级别'/>
+        <page name='Struct'/>
+        <page name='FetchControllerUICollectionVC'/>
+        <page name='ArrayRange'/>
+        <page name='extension'/>
+        <page name='Untitled Page 2'/>
+        <page name='Untitled Page 3'/>
+        <page name='swift2'/>
+        <page name='TestProgressView'/>
+        <page name='反射'/>
+        <page name='汉字转拼音'/>
+        <page name='removeEmoji'/>
+        <page name='string 去掉首尾的空格'/>
+        <page name='Untitled Page 4'/>
+        <page name='String Range'/>
+        <page name='Range to NSRange'/>
+        <page name='随机数'/>
+        <page name='reduce'/>
+    </pages>
+</playground>
